@@ -16,4 +16,4 @@ tags:
 
 Welcome to 24FPS
 
-I love movies, and this is a simple project to break down some of my favorite films scene by scene. I'm starting with a Star Wars.
+I love movies, and this is a simple project to break down some of my favorite films scene by scene. I'm starting with Star Wars.
