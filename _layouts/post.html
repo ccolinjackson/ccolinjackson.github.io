@@ -42,14 +42,7 @@ layout: default
           </span>
           {% endif %}
           on <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B %-d, %Y" }}</span>
-          {% if page.categories != empty %} under {% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
         </i></small>
-      </div>
-
-      <div class="read-time">
-        <small>
-          {{ minutes }} minute read
-        </small>
       </div>
 
       <div class="content-panel content">
@@ -106,6 +99,8 @@ layout: default
       <div class="content-panel feedback">
         I <i class="fa fa-heart"></i> feedback.<br />
         Let me know what you think of this article on twitter <a href="http://www.twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a> or leave a comment below!
+        <br>
+        You can also support me via <a href=\"https://patreon.com/24fpsme\">Patreon</a>
       </div>
       {% elsif site.twitter_username %}
       <div class="content-panel feedback">

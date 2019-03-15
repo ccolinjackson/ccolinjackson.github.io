@@ -22,9 +22,10 @@ google_plus_link:
 stackoverflow_link: 
 xing_link:
 facebook_link:
+patreon_username: "24fpsme"
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/@24fpsm\">Chris Jackson</a>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://patreon.com/24fpsme\">Chris Jackson</a>"
 footer_right: 
 
 # Build settings

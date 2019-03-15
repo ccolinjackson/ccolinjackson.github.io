@@ -15,6 +15,7 @@ $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
 $reddit:         #cee3f8;
 $rss:            #eea33a;
+$patreon:		 #365899;
 
 $darker:         #21211E;
 $dark:           #2D2D29;
@@ -104,7 +105,7 @@ ul {
 	width: 100%;
 
 	@media (min-width: $screen-sm-min) {
-		font-size: 62px;
+		font-size: 32px;
 		margin-left: -10%;
 		width: 120%;
 	}
@@ -211,6 +212,11 @@ ul {
 	.fa-instagram:hover {
 		color: $instagram;
 	}
+
+	.fa-patreon:hover {
+		color: $instagram;
+
+	}
 	
 	.fa-reddit-alien:hover {
 		color: $reddit;
@@ -238,7 +244,7 @@ ul {
 		margin-top: 10px;
 		margin-left: 0%;
 		margin-bottom: 0px;
-		font-size: 32px;
+		font-size: 16px;
 		width: 100%;
 
 		@media (min-width: $screen-lg-min) {
@@ -544,7 +550,7 @@ ul {
 		}
 
 		.author {
-			font-size: 20px;
+			font-size: 15px;
 			text-align: center;
 			margin-bottom: 0px;
 		}
@@ -560,7 +566,7 @@ ul {
 		}
 
 		.content {
-			font-size: 18px;
+			font-size: 12px;
 			line-height: 170%;
 			padding-left: 15px;
 			padding-right: 15px;
@@ -568,7 +574,7 @@ ul {
 			padding-bottom: 10px;
 
 			@media (min-width: $screen-sm-min) {
-				font-size: 24px;
+				font-size: 18px;
 				padding-left: 30px;
 				padding-right: 30px;
 				padding-top: 40px;
