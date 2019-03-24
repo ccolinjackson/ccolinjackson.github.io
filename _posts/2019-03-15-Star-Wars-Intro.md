@@ -14,14 +14,14 @@ In creating Star Wars, George Lucas wanted to chart a different course. Gone are
 
 Here are the individual stills:
 
-![20th Century Fox Logo](https://media.24fps.me/file/24fpsme/20CentFox.png){:height="65%" width="65%"} 
+![20th Century Fox Logo](https://media.24fps.me/file/24fpsme/20CentFox.png){:height="90%" width="90%"} 
 
 First we hear Alfred Newman's 20th Century Fox Fanfare, then fade in from black to the animated studio logo. This first element is often overlooked, but I think the 20th Century Fox intro is important not for the logo/searchlight animation but for Alfred Newman's fanfare. The rolling percussion followed by the orchestra's brass leads into a swelling string section lending a sense of grandeur. This fanfare was written in B#, and continues into the second element of the title scenes while the 20th Century Fox logo fades to black.
 
-![Lucasfilm Logo](https://media.24fps.me/file/24fpsme/Lucasfilm.png){:height="65%" width="65%"}
+![Lucasfilm Logo](https://media.24fps.me/file/24fpsme/Lucasfilm.png){:height="90%" width="90%"}
 The second title element is a fade in to Lucasfilm's original logo, crisply rendered in green using what appears to be the Franklin Gothic Demi font. In future movies, this logo would be prettied up with flares and a rolling highlight. I prefer the original in it's spartan form. As soon as the fanfare ends, this logo fades to black.
 
-![A long time ago in a galaxy far, far away...](https://media.24fps.me/file/24fpsme/alongtimeago.png){:height="65%" width="65%"}
+![A long time ago in a galaxy far, far away...](https://media.24fps.me/file/24fpsme/alongtimeago.png){:height="90%" width="90%"}
 Finally we silently fade in to the now iconic "a long time ago...". In soft blue text Lucas juxtaposes two ideas: time and location. The first is likening the movie to a fairy tale set in the past, the second implying a more scientific/modern bent by mentioning a galaxy "far, far away". This subconsciously broadens the expecations of the viewer.
 
 Here's a video of the full intro scene:  
