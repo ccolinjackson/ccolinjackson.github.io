@@ -2,7 +2,7 @@
 layout:     post
 title:      Star Wars Scene 1
 author:     Chris Jackson
-summary:    Intro to Star Wars
+summary:    Star Wars Crawl
 categories: [Star Wars]
 thumbnail: 
 tags:	[ Star Wars, Crawl, Logo, Lucasfilm, John Williams, Suzy Rice, Dan Perri, Brian De Palma, Union Pacific]
