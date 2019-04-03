@@ -6,7 +6,7 @@ baseurl: ""
 url: "http:24fps.me"
 title_description: "Analyzing the Star Wars Original Trilogy scene by scene."
 title_image: "/assets/958924.jpg"
-google_analytics: 
+google_analytics: UA-137572226-1
 disqus_account: "24fpsme"
 github_repository: 
 addthis_id: 
