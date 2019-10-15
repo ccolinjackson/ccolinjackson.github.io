@@ -24,7 +24,7 @@ Tatooine's atmosphere is visible, as are the swirls of its topography. We don't 
 
 ![Blockade Runner above Tatooine](https://media.24fps.me/file/24fpsme/Scene_2/Scene2_Clip2.png){:height="90%" width="90%"}
 
-Now we see why the Blockade Runner is fleeing. The Imperial Star Destroyer appear overhead, and continues until it fills the screen. Utterly dominating! 
+Now we see why the Blockade Runner is fleeing. The Imperial Star Destroyer appears overhead, and continues until it fills the screen. Utterly dominating! 
 
 ![Blockade Runner chased by Star Destroyer](https://media.24fps.me/file/24fpsme/Scene_2/Scene2_Clip3.png){:height="90%" width="90%"}
 
