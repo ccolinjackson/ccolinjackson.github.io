@@ -1,6 +1,6 @@
 # 24fps
 
-A look at Star Wars, scene by scene
+A look at Star Wars, scene by scene.
 
 (https://24fps.me)
 
