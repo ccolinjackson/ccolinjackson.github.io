@@ -16,7 +16,7 @@ tags:	[ Star Wars, Tantive IV, Star Destroyer, Alex Tavoularis, Joe Johnston, Jo
 
 <br>
 
-There's so much to talk about in this scene! First we experience what would come to be Lucas's signature opening camera move; a tilt down from the starfield. Camera moves in FX were integral to the goal of immersing the audience in a believable yet fantastic world. Some moves were obvious, like this tilt, but others were far more subtle. As we pan down, we see two moon above a planet. The far moon might actually be a planet, but I think both are moons since they'd be too close to Tatooine to survive the planet's gravitational pull. As we tilt down further, we see Tatooine proper. 
+There's so much to talk about in this scene! First we experience what would come to be Lucas's signature opening camera move; a tilt down from the starfield. Camera moves in FX were integral to the goal of immersing the audience in a believable yet fantastic world. Some moves were obvious, like this tilt, but others were far more subtle. As we pan down, we see two moons above a planet. The far moon might actually be a planet, but I think both are moons since they'd be too close to Tatooine to survive the planet's gravitational pull. As we tilt down further, we see Tatooine proper. 
 
 ![Tatooine](https://media.24fps.me/file/24fpsme/Scene_2/Scene2_Clip1.png){:height="90%" width="90%"}
 
