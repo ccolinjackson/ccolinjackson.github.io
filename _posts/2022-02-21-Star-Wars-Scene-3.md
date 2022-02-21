@@ -37,7 +37,7 @@ Artoo seems to be pretty beat up, and Threepio is well worn and sports an obviou
 </video>
 
 <br>
-The next cut shows a group of Rebel Troopers running down the corridors of the ship. First, a quick detour into costume design. The helmets are fascinating; they have visors, but never lower them despite their utility in a smokey ship. Some of the helmets also have antenna, but no apparent microphones. I'm not sure they helmets would offer much protection against anything except falling debris. The rest of their wardobe is utilitarian, cargo pockets, utility belts, calf-high boots. The only flair is their collared blouses. Otherwise, they're all identical; no insignia, no name badges, all interchangeable characters. This shot is a straightforward pan then a cut to a medium shot.
+The next cut shows a group of Rebel Troopers running down the corridors of the ship. First, a quick detour into John Mollo's costume design. The helmets are fascinating; they have visors, but never lower them despite their utility in a smokey ship. Some of the helmets also have antenna, but no apparent microphones. I'm not sure they helmets would offer much protection against anything except falling debris. The rest of their wardobe is utilitarian, cargo pockets, utility belts, calf-high boots. The only flair is their collared blouses. Otherwise, they're all identical; no insignia, no name badges, all interchangeable characters. This shot is a straightforward pan then a cut to a medium shot.
 
 
 <video style="display:block; width:100%; height:auto;" controls>
