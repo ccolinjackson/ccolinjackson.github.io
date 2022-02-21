@@ -24,7 +24,7 @@ The next scene shows the capture of the Tantive IV by the Imperial Navy. It's a 
 </video>
 
 <br>
-The first thing we see is three droids reacting to the direct hit from the Star Destroyer. There's some camera shake and then the dolly shot of the two droids (followed by another silver Protocol droid). The interior of the ship is spacious, with a futuristic look that still seems on point forty three years later. I really like how the floor curves up to meet the walls, as well as the indirect lighting. While the color palette is bright and clean, its clear this is a working ship, not some luxury liner. In the background, a claxon wails and is joined with another, different alarm.
+The first thing we see is three droids reacting a direct hit from the Star Destroyer. There's some camera shake and then the dolly shot of the two droids (followed by another silver Protocol droid). The interior of the ship is spacious, with a futuristic look that still seems on point forty three years later. I really like how the floor curves up to meet the walls, as well as the indirect lighting. While the color palette is bright and clean, its clear this is a working ship, not some luxury liner. In the background, a claxon wails and is joined with another, different alarm.
 
 
 
@@ -37,7 +37,7 @@ Artoo seems to be pretty beat up, and Threepio is well worn and sports an obviou
 </video>
 
 <br>
-The next cut shows a group of Rebel Troopers running down the corridors of the ship. They have helmets, blasters, and vests. Their wardrobe is an interesting one; the pants have cargo pockets, and the vests provide extra storage as well, but the collared shirts adds a bit of style to them. They also wear a utility belt and calf-high boots. Their helmets look to have some sort of blast or glare shield, but it's never used. Some of the helmets also have an antenna. This is a straightforward pan then a cut to a medium shot.
+The next cut shows a group of Rebel Troopers running down the corridors of the ship. First, a quick detour into costume design. The helmets are fascinating; they have visors, but never lower them despite their utility in a smokey ship. Some of the helmets also have antenna, but no apparent microphones. I'm not sure they helmets would offer much protection against anything except falling debris. The rest of their wardobe is utilitarian, cargo pockets, utility belts, calf-high boots. The only flair is their collared blouses. Otherwise, they're all identical; no insignia, no name badges, all interchangeable characters. This shot is a straightforward pan then a cut to a medium shot.
 
 
 <video style="display:block; width:100%; height:auto;" controls>
@@ -45,7 +45,7 @@ The next cut shows a group of Rebel Troopers running down the corridors of the s
 </video>
 
 <br>
-Now we become acquainted with Threepio's catchphrase "This is madness." This shot is a continuation of the previous dolly shot, intercut with closeups of Artoo. The detail on the two main droids is outstanding. These are working droids, with grease, dirt and dents. Threepio is a bit dirty than you might expect for a protocol droid, but I believe that's primarily to hide the camera crew filming the scene. You can kind of make them out if you look in the reflection of his chestplate.
+Now we become acquainted with Threepio's catchphrase "This is madness." This shot is a continuation of the previous dolly shot, intercut with closeups of Artoo. The detail on the two main droids is outstanding. These are working droids, with grease, dirt and dents. Threepio is a bit dirtier than you might expect for a protocol droid, but I believe that's primarily to hide the camera crew filming the scene. You can kind of make them out if you look in the reflection of his chestplate.
 
-We also learn that Artoo communicates in beeps, chirps and whistles, while Threepio has a stuff British accent. It's hard to tell the layout of the Blockade Runner; Rebel Troopers are running in the opposite direction of the droids, and there are turns to the corridor, plus openings to other sections of the ship. 
+We also learn that Artoo communicates in beeps, chirps and whistles, while Threepio has a stiff British accent. It's hard to tell the layout of the Blockade Runner; Rebel Troopers are running in the opposite direction of the droids, and there are turns to the corridor, plus openings to other sections of the ship. 
 
